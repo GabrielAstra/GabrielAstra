@@ -3,7 +3,7 @@
 
 
 - 🔭 Hoje trabalho com projetos autônomos. 
-- 🌱 Sempre estudando C# ASP.Net, SQL, JavaScript, HMTL, CSS...
+- 🌱 Sempre estudando C# ASP.Net, SQL, JavaScript, Docker, Linux, HMTL, CSS...
 - 📫 Por onde falar comigo: gvlc2013@gmail.com
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=191970&height=120&section=header"/>
