@@ -2,7 +2,7 @@
 
 
 
-- 🔭 Today I work with autonomous projects.
+- 🔭 Work with me.
 - 🌱 Sempre estudando .NET, ASP.Net, SQL, JavaScript, Docker, Linux, HMTL, CSS...
 - 📫 where to talk to me: gvlc2013@gmail.com
 
