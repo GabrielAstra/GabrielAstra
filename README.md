@@ -2,8 +2,8 @@
 
 
 
-- 🔭 Work with me.
-- 🌱 Sempre estudando .NET, ASP.Net, SQL, JavaScript, Docker, Linux, HMTL, CSS...
+- 🔭 How can I help
+- 🗿 Be a gentleman
 - 📫 where to talk to me: gvlc2013@gmail.com
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=191970&height=120&section=header"/>
