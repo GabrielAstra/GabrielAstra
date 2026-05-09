@@ -2,20 +2,18 @@
 
 <div align="center">
   <h1>Gabriel Astra</h1>
-  <p><i>Software Developer & Digital Craftsman</i></p>
+  <p><i>Software Enginer</i></p>
 </div>
 
 <br>
 
-## 🎩 About Me
+## About Me
 
 Greetings! I'm Gabriel, a developer from Brazil with a passion for elegant code and refined solutions. I believe in the art of programming—where functionality meets sophistication.
 
-> *"The details are not the details. They make the design."* — Charles Eames
-
 <br>
 
-## 📬 Let's Connect
+## Let's Connect
 
 I value meaningful conversations and collaborative opportunities. Feel free to reach out:
 
@@ -23,7 +21,7 @@ I value meaningful conversations and collaborative opportunities. Feel free to r
 
 <br>
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=GabrielAstra&show_icons=true&count_private=true&hide_border=true&title_color=2C3E50&icon_color=34495E&text_color=ECF0F1&bg_color=1a1a2e&border_radius=10" alt="Gabriel's GitHub Stats" /> 
@@ -32,7 +30,7 @@ I value meaningful conversations and collaborative opportunities. Feel free to r
 
 <br>
 
-## 🛠️ Philosophy
+## Philosophy
 
 I approach each project with dedication and attention to detail, believing that quality software is built on:
 
