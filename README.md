@@ -32,7 +32,7 @@ Elegant platform focused on modern digital experiences.
 <td align="center" width="50%">
 
 <a href="https://meuprimeirocv.com/">
-  <img src="./vitae" width="180"/>
+  <img src="./vitae.png" width="180"/>
 </a>
 
 ### Vitae
