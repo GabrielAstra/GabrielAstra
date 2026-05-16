@@ -1,8 +1,6 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1a1a2e&height=120&section=header"/>
-
 <div align="center">
   <h1>Gabriel Astra</h1>
-  <p><i>Software Enginer</i></p>
+  <p><i>Software Engineer</i></p>
 </div>
 
 <br>
@@ -10,6 +8,42 @@
 ## About Me
 
 Greetings! I'm Gabriel, a developer from Brazil with a passion for elegant code and refined solutions. I believe in the art of programming—where functionality meets sophistication.
+
+<br>
+
+## Some Projects You Can Explore
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="50%">
+
+<a href="https://github.com/GabrielAstra/Kleos-Unlock-Achivement-and-XP-Google-Play">
+  <img src="./KleosLogoVazia.png" width="180"/>
+</a>
+
+### Kleos
+
+Elegant platform focused on modern digital experiences.
+
+</td>
+
+<td align="center" width="50%">
+
+<a href="https://meuprimeirocv.com/">
+  <img src="./VitaeLogoTrans.png" width="180"/>
+</a>
+
+### Vitae
+
+Thoughtfully crafted software built with performance and refinement in mind.
+
+</td>
+</tr>
+</table>
+
+</div>
 
 <br>
 
@@ -35,5 +69,3 @@ I approach each project with dedication and attention to detail, believing that 
 <div align="center">
   <p><i>Thank you for visiting. May your code compile on the first try.</i></p>
 </div>
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1a1a2e&height=120&section=footer"/>
