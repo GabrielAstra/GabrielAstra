@@ -19,7 +19,7 @@ Greetings! I'm Gabriel, a developer from Brazil with a passion for elegant code 
 <tr>
 <td align="center" width="50%">
 
-<a href="https://github.com/GabrielAstra/Kleos-Unlock-Achivement-and-XP-Google-Play">
+<a  target="_blank" href="https://github.com/GabrielAstra/Kleos-Unlock-Achivement-and-XP-Google-Play">
   <img src="./kleos.png" width="180"/>
 </a>
 
@@ -27,7 +27,7 @@ Greetings! I'm Gabriel, a developer from Brazil with a passion for elegant code 
 
 <td align="center" width="50%">
 
-<a href="https://meuprimeirocv.com/">
+<a target="_blank" href="https://meuprimeirocv.com/">
   <img src="./vitae.png" width="180"/>
 </a>
 
