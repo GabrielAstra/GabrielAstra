@@ -7,7 +7,7 @@
 
 ## About Me
 
-Greetings! I'm Gabriel, a developer from Brazil with a passion for elegant code and refined solutions. I believe in the art of programming—where functionality meets sophistication.
+Hello! I'm a business and technology professional, how can I help you?
 
 <br>
 
