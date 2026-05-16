@@ -23,10 +23,6 @@ Greetings! I'm Gabriel, a developer from Brazil with a passion for elegant code 
   <img src="./kleos.png" width="180"/>
 </a>
 
-### Kleos
-
-Elegant platform focused on modern digital experiences.
-
 </td>
 
 <td align="center" width="50%">
@@ -34,10 +30,6 @@ Elegant platform focused on modern digital experiences.
 <a href="https://meuprimeirocv.com/">
   <img src="./vitae.png" width="180"/>
 </a>
-
-### Vitae
-
-Thoughtfully crafted software built with performance and refinement in mind.
 
 </td>
 </tr>
